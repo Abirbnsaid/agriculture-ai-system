@@ -31,10 +31,7 @@ agriculture_ai/
 ├── test_agent.py
 └── README.md
 
-yaml
-Copier le code
 
----
 
 ## 🤖 AI & Logic Components
 
@@ -78,5 +75,5 @@ Django REST Framework
 Git & GitHub
 
 🎓 Academic Context
-This project was developed as part of an academic AI and software engineering learning process.
+This project was developed as part of SOA learning process.
 
